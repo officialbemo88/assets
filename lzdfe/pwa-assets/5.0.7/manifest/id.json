@@ -1,0 +1,52 @@
+{
+  "name": "Bemo88 Progressive Web Application",
+  "short_name": "Bemo88",
+  "gcm_sender_id": "332173969373",
+  "icons": [
+    {
+      "src": "https://australiansportsparty.s3.ap-southeast-2.amazonaws.com/assets/slot777-slot88.webp",
+      "sizes": "495x495",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://australiansportsparty.s3.ap-southeast-2.amazonaws.com/assets/favicon.png",
+      "sizes": "32x32",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://australiansportsparty.s3.ap-southeast-2.amazonaws.com/assets/logo.webp",
+      "sizes": "300x75",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://australiansportsparty.s3.ap-southeast-2.amazonaws.com/assets/qr-code.webp",
+      "sizes": "299x299",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://australiansportsparty.s3.ap-southeast-2.amazonaws.com/assets/bemo88-login-daftar.gif",
+      "sizes": "450x120",
+      "type": "image/gif"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://game-apk.s3.ap-northeast-1.amazonaws.com/bemo88.apk",
+      "id": "bemo88.apk"
+    },
+    {
+      "platform": "google",
+      "url": "https://groups.google.com/g/officialbemo88"
+    },
+    {
+      "platform": "about.me",
+      "url": "https://about.me/bemo88official"
+    }
+  ],
+  "start_url": "https://www.australiansportsparty.com",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#400000",
+  "theme_color": "#fff"
+}
