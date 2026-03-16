@@ -182,3 +182,33 @@ body {
   50%  { transform: scale(1.08); }
   100% { transform: scale(1); }
 }
+
+.fixed-btn{
+position:fixed;
+bottom:20px;
+left:50%;
+transform:translateX(-50%);
+display:flex;
+align-items:center;
+gap:10px;
+padding:14px 26px;
+font-size:18px;
+font-weight:700;
+text-decoration:none;
+color:#fff;
+background:linear-gradient(90deg,#ff3b3b,#ff9900);
+border-radius:50px;
+box-shadow:0 0 15px rgba(255,0,0,.6);
+z-index:9999;
+animation:pulse 1.5s infinite;
+}
+
+.download-icon{
+flex-shrink:0;
+}
+
+@keyframes pulse{
+0%{transform:translateX(-50%) scale(1)}
+50%{transform:translateX(-50%) scale(1.05)}
+100%{transform:translateX(-50%) scale(1)}
+}
