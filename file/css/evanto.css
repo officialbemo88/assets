@@ -23495,7 +23495,7 @@
         .ds-color-scheme-dark {
             --color-always-white: #fff;
             --color-border-caution: #ff8d57;
-            --color-border-critical: #ff6b9a;
+            --color-border-critical: #ff6b6b;
             --color-border-info: #8f9dff;
             --color-border-positive: #2e7400;
             --color-border-primary: #fff;
@@ -23505,7 +23505,7 @@
             --color-border-tertiary: #172D46;
             --color-content-caution-default: #ff8d57;
             --color-content-caution-strong: #692400;
-            --color-content-critical-default: #ff6b9a;
+            --color-content-critical-default: #ff6b6b;
             --color-content-critical-strong: #77012d;
             --color-content-disabled: #707070;
             --color-content-info-default: #8f9dff;
@@ -23526,7 +23526,7 @@
             --color-surface-caution-default: #692400;
             --color-surface-caution-strong: #ff8d57;
             --color-surface-critical-default: #77012d;
-            --color-surface-critical-strong: #ff6b9a;
+            --color-surface-critical-strong: #ff6b6b;
             --color-surface-elevated: #172D46;
             --color-surface-info-default: #16357b;
             --color-surface-info-strong: #8f9dff;
@@ -39689,7 +39689,7 @@
         .color-scheme-dark {
             --color-always-white: #fff;
             --color-border-caution: #ff8d57;
-            --color-border-critical: #ff6b9a;
+            --color-border-critical: #ff6b6b;
             --color-border-info: #8f9dff;
             --color-border-positive: #2e7400;
             --color-border-primary: #fff;
@@ -39699,7 +39699,7 @@
             --color-border-tertiary: #172D46;
             --color-content-caution-default: #ff8d57;
             --color-content-caution-strong: #692400;
-            --color-content-critical-default: #ff6b9a;
+            --color-content-critical-default: #ff6b6b;
             --color-content-critical-strong: #77012d;
             --color-content-disabled: #666;
             --color-content-info-default: #8f9dff;
@@ -39720,7 +39720,7 @@
             --color-surface-caution-default: #692400;
             --color-surface-caution-strong: #ff8d57;
             --color-surface-critical-default: #77012d;
-            --color-surface-critical-strong: #ff6b9a;
+            --color-surface-critical-strong: #ff6b6b;
             --color-surface-elevated: #172D46;
             --color-surface-info-default: #16357b;
             --color-surface-info-strong: #8f9dff;
@@ -67190,7 +67190,7 @@
         .ds-color-scheme-dark {
             --color-always-white: #fff;
             --color-border-caution: #ff8d57;
-            --color-border-critical: #ff6b9a;
+            --color-border-critical: #ff6b6b;
             --color-border-info: #8f9dff;
             --color-border-positive: #2e7400;
             --color-border-primary: #fff;
@@ -67200,7 +67200,7 @@
             --color-border-tertiary: #172D46;
             --color-content-caution-default: #ff8d57;
             --color-content-caution-strong: #692400;
-            --color-content-critical-default: #ff6b9a;
+            --color-content-critical-default: #ff6b6b;
             --color-content-critical-strong: #77012d;
             --color-content-disabled: #707070;
             --color-content-info-default: #8f9dff;
@@ -67221,7 +67221,7 @@
             --color-surface-caution-default: #692400;
             --color-surface-caution-strong: #ff8d57;
             --color-surface-critical-default: #77012d;
-            --color-surface-critical-strong: #ff6b9a;
+            --color-surface-critical-strong: #ff6b6b;
             --color-surface-elevated: #172D46;
             --color-surface-info-default: #16357b;
             --color-surface-info-strong: #8f9dff;
