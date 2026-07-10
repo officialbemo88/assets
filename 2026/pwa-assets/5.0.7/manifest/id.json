@@ -1,0 +1,52 @@
+{
+  "name": "Bemo88 Progressive Web Application",
+  "short_name": "Bemo88",
+  "gcm_sender_id": "332173969373",
+  "icons": [
+    {
+      "src": "https://bemo88mod.b-cdn.net/assets/slot777-x-slot88.svg",
+      "sizes": "900x900",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://bemo88.media/assets/icon.png",
+      "sizes": "32x32",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://bemo88.media/assets/logo.png",
+      "sizes": "300x75",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://bemo88mod.b-cdn.net/assets/qr-code.webp",
+      "sizes": "299x299",
+      "type": "image/webp"
+    },
+    {
+      "src": "https://bemo88mod.b-cdn.net/assets/linkbemo88.webp",
+      "sizes": "450x120",
+      "type": "image/gif"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://game-apk.s3.ap-northeast-1.amazonaws.com/bemo88.apk",
+      "id": "bemo88.apk"
+    },
+    {
+      "platform": "google",
+      "url": "https://groups.google.com/g/officialbemo88"
+    },
+    {
+      "platform": "about.me",
+      "url": "https://about.me/bemo88official"
+    }
+  ],
+  "start_url": "https://headcanon-generators.com",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#400000",
+  "theme_color": "#fff"
+}
